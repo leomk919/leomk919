@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Leo! 👋
 
-<!--
-**leomk919/leomk919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a passionate self-taught developer from Syria, currently building a rock-solid foundation in software development and algorithms.
 
-Here are some ideas to get you started:
+* 🎓 Student at **Abu-Hadhoud Web Academy**
+* 🧠 Deeply focused on **Problem Solving** and core computer science concepts.
+* 💻 Currently mastering: **C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="visualstudio" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/> &nbsp;
+</p>
+
+### 📊 GitHub Stats
+![Leo's GitHub Stats](https://vercel.app)
