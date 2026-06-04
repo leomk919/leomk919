@@ -8,11 +8,9 @@ I am a passionate self-taught developer from Syria, currently building a rock-so
 * 💻 Currently mastering: **C++**
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="visualstudio" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/> &nbsp;
-</p>
+* **Language:** C++
+* **IDE:** Visual Studio
+* **Version Control:** Git & GitHub
 
 ### 📊 GitHub Stats
 ![Leo's GitHub Stats](https://vercel.app)
